@@ -1,0 +1,96 @@
+NAME,DIRECTOR,YEAR,MOSTNOMS,DGAWINS,GGWIN,GGDIRWINS,PREVACTWINS,PREVDIRNOMS,MOSTPREVDIRNOMS,BIOP,EPICBIOP,SAGWINS,GGACTWINS,FOREIGNLANG,BECHDEL,TWOLEAD,GENDER,LEADGENDER,RACE,TRAUMA,RACISM,SEXISM,CLASSISM,LGBTQ,LOVE,DISABILITY,TOTALTOPIC
+Wings,William A. Wellman,1928,0,,,,0,0,0,0,0,,,0,0,1,0,0,0,0,0,0,1,0,1,0,0.2857142857
+The Broadway Melody,Harry Beaumont,1929,0,,,,0,0,0,0,0,,,0,1,1,0,2,0,0,0,0,1,0,1,0,0.2857142857
+All Quiet on the Western Front,Lewis Milestone,1930,0,,,,0,1,0,0,1,,,0,0,0,0,0,0,1,0,0,0,0,0,1,0.2857142857
+Cimarron,Wesley Ruggles,1931,1,,,,0,0,0,0,1,,,0,1,0,0,0,0,0,1,0,0,0,1,0,0.2857142857
+Grand Hotel,Edmund Goulding,1932,0,,,,1,0,0,0,0,,,0,1,1,0,2,0,0,0,0,0,0,1,0,0.1428571429
+Cavalcade,Frank Lloyd,1933,1,,,,0,3,1,0,1,,,0,1,1,1,2,0,0,0,0,0,0,1,0,0.1428571429
+It Happened One Night,Frank Capra,1934,0,,,,0,1,0,0,0,,,0,1,1,0,2,0,0,0,0,1,0,1,0,0.2857142857
+Mutiny on the Bounty,Frank Lloyd,1935,1,,,,2,4,1,1,0,,,0,0,1,0,0,0,0,0,0,0,0,1,0,0.1428571429
+The Great Ziegfeld,Robert Z. Leonard,1936,1,,,,0,1,0,1,0,,,0,1,0,0,0,0,0,0,0,0,0,1,0,0.1428571429
+The Life of Emile Zola,William Dierterle,1937,1,,,,1,0,0,1,0,,,0,0,0,0,0,0,1,0,0,1,0,0,0,0.2857142857
+You Can't Take It with You,Frank Capra,1938,1,,,,1,3,0,0,0,,,0,0,1,0,2,0,0,0,0,1,0,1,0,0.2857142857
+Gone with the Wind,Victor Fleming,1939,1,,,,1,0,0,0,0,,,0,1,1,0,2,0,1,1,1,0,0,1,0,0.5714285714
+Rebecca,Alfred Hitchcock,1940,1,,,,0,0,0,0,0,,,0,1,1,0,2,0,1,0,0,0,0,1,0,0.2857142857
+How Green Was My Valley,John Ford,1941,0,,,,0,3,0,0,0,,,1,1,1,0,2,0,1,0,0,1,0,1,0,0.4285714286
+Mrs. Miniver,William Wyler,1942,1,,,,0,4,1,0,0,,,0,1,1,1,2,0,1,0,1,0,0,1,0,0.4285714286
+Casablanca,Michael Curtiz,1943,0,,,0,0,4,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0.1428571429
+Going My Way,Leo McCarey,1944,1,,,0,0,1,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Lost Weekend,Billy Wilder,1945,0,,,1,0,1,0,0,1,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0.2857142857
+The Best Years of Our Lives,William Wyler,1946,1,,,0,0,5,1,0,0,,,0,0,1,0,0,0,1,0,0,0,0,1,1,0.4285714286
+Gentleman's Agreement,Elia Kazan,1947,1,,,1,0,0,0,0,0,,,0,0,1,1,2,0,0,1,1,0,0,1,0,0.4285714286
+Hamlet,Laurence Olivier,1948,0,0,,0,0,0,0,0,0,,,0,0,0,0,0,0,1,0,0,0,0,1,0,0.2857142857
+All the King's Men,Robert Rossen,1949,0,1,,1,0,0,0,0,1,,,0,0,0,0,0,0,1,0,0,0,0,1,1,0.4285714286
+All About Eve,Joseph L. Mankiewicz,1950,1,1,,0,2,1,0,0,1,,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0.2857142857
+An American in Paris,Vincente Minnelli,1951,0,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.1428571429
+The Greatest Show on Earth,Cecil B. DeMille,1952,0,0,1,1,1,0,0,0,0,,0,0,0,1,0,2,0,0,0,0,0,0,1,1,0.2857142857
+From Here to Eternity,Fred Zinnemann,1953,1,1,0,1,0,2,0,0,1,,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0.2857142857
+On the Waterfront,Elia Kazan,1954,1,1,1,1,0,2,0,0,0,,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0.2857142857
+Marty,Delbert Mann,1955,1,1,0,0,0,0,0,0,0,,1,0,1,1,1,2,0,0,0,0,0,0,1,0,0.1428571429
+Around the World in 80 Days,Michael Anderson,1956,0,0,1,0,0,0,0,0,0,,1,1,0,1,0,2,0,0,0,0,0,0,1,0,0.1428571429
+The Bridge on the River Kwai,David Lean,1957,0,1,1,1,1,3,0,0,0,,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.1428571429
+Gigi,Vincente Minnelli,1958,1,1,0,1,0,1,0,0,0,,0,0,0,1,1,2,0,0,0,0,0,0,1,0,0.1428571429
+Ben-Hur,William Wyler,1959,1,1,1,1,0,10,1,0,0,,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0.4285714286
+The Apartment,Billy Wilder,1960,1,1,0,0,0,7,0,0,0,,1,0,1,1,0,2,0,1,0,0,0,0,1,0,0.2857142857
+West Side Story,"Jerome Robbins, Robert Wise",1961,1,1,0,0,0,1,0,0,0,,0,1,1,1,0,2,0,1,1,0,1,0,1,0,0.5714285714
+Lawrence of Arabia,David Lean,1962,1,1,1,1,1,4,0,1,0,,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0.2857142857
+Tom Jones,Tony Richardson,1963,1,1,1,0,0,0,0,0,0,,0,0,1,1,1,2,0,0,0,0,0,0,1,0,0.1428571429
+My Fair Lady,George Cukor,1964,0,1,1,1,1,4,0,0,0,,1,0,1,1,0,2,0,0,0,0,1,0,0,1,0.2857142857
+The Sound of Music,Robert Wise,1965,1,1,1,0,1,2,0,1,0,,0,1,1,1,1,2,0,0,0,0,0,0,1,0,0.1428571429
+A Man for All Seasons,Fred Zinnemann,1966,0,1,1,1,0,5,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+In the Heat of the Night,Norman Jewison,1967,0,0,1,0,1,0,0,0,0,,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0.1428571429
+Oliver!,Carol Reed,1968,1,0,1,0,0,2,0,0,0,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0.2857142857
+Midnight Cowboy,John Schlesinger,1969,0,1,0,0,0,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0.5714285714
+Patton,Franklin J. Schaffner,1970,1,1,0,0,0,0,0,1,0,,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0.2857142857
+The French Connection,William Friedkin,1971,1,1,1,1,0,0,0,0,1,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Godfather,Francis Ford Coppola,1972,1,1,1,1,1,0,0,0,0,,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0.2857142857
+The Sting,George Roy Hill,1973,1,1,0,0,0,1,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Godfather Part II,Francis Ford Coppola,1974,1,1,0,0,0,1,0,0,1,,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0.1428571429
+One Flew Over the Cuckoo's Nest,Milos Forman,1975,1,1,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0.4285714286
+Rocky,John G. Avildsen,1976,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.1428571429
+Annie Hall,Woody Allen,1977,0,1,0,0,0,0,0,0,1,,1,0,1,1,0,2,0,0,0,1,0,0,1,0,0.2857142857
+The Deer Hunter,Michael Cimino,1978,1,1,0,1,0,0,0,0,0,,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0.4285714286
+Kramer vs. Kramer,Robert Benton,1979,1,1,1,0,0,0,0,0,0,,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0.4285714286
+Ordinary People,Robert Redford,1980,0,1,1,1,0,0,0,0,0,,1,0,0,1,0,2,0,1,0,0,0,0,1,1,0.4285714286
+Chariots of Fire,Hugh Hudson,1981,0,0,0,0,0,0,0,1,0,,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0.2857142857
+Gandhi,Richard Attenborough,1982,1,1,0,1,0,0,0,1,0,,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0.2857142857
+Terms of Endearment,James L. Brooks,1983,1,1,1,0,1,0,0,0,0,,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0.2857142857
+Amadeus,Milos Forman,1984,1,1,1,1,0,1,0,1,0,,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0.4285714286
+Out of Africa,Sydney Pollack,1985,1,0,1,0,1,2,0,0,1,,0,1,1,0,0,1,0,0,1,1,1,0,1,0,0.5714285714
+Platoon,Oliver Stone,1986,1,1,1,1,0,0,0,0,1,,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0.4285714286
+The Last Emperor,Bernardo Bertolucci,1987,1,1,1,1,0,1,0,1,0,,0,1,1,0,0,0,1,1,1,0,1,0,0,0,0.4285714286
+Rain Man,Barry Levinson,1988,1,1,1,0,1,0,0,0,0,,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0.2857142857
+Driving Miss Daisy,Bruce Beresford,1989,1,0,1,0,0,1,0,0,0,,1,0,1,1,1,2,0,1,1,0,0,0,0,1,0.4285714286
+Dances With Wolves,Kevin Costner,1990,1,1,1,1,0,0,0,0,0,,0,1,0,0,0,0,1,1,1,0,0,0,1,1,0.5714285714
+The Silence of the Lambs,Johnathan Demme,1991,0,1,0,0,0,0,0,0,0,,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0.2857142857
+Unforgiven,Clint Eastwood,1992,1,1,0,1,1,0,0,0,0,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0.1428571429
+Schindler's List,Steven Spielberg,1993,1,1,1,1,1,3,0,1,0,,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0.4285714286
+Forrest Gump,Robert Zemeckis,1994,1,1,1,1,3,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0.8571428571
+Braveheart,Mel Gibson,1995,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0.4285714286
+The English Patient,Anthony Minghella,1996,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,2,0,1,0,0,0,0,1,1,0.4285714286
+Titanic,James Cameron,1997,1,1,1,1,1,0,0,0,1,1,0,0,1,1,0,2,0,0,0,0,1,0,1,0,0.2857142857
+Shakespeare in love,John Madden,1998,1,0,1,0,1,0,0,0,1,2,1,0,1,1,0,2,0,0,0,1,0,0,1,0,0.2857142857
+American Beauty,Sam Mendes,1999,1,1,1,1,0,0,0,0,1,3,0,0,1,1,0,2,0,0,0,0,0,1,1,0,0.2857142857
+Gladiator,Ridley Scott,2000,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0.4285714286
+A Beautiful Mind,Ron Howard,2001,0,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0.4285714286
+Chicago,Rob Marshall,2002,1,1,1,0,0,0,0,0,1,3,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0.1428571429
+The Lord of the Rings: Return of the King,Peter Jackson,2003,1,1,1,1,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Million Dollar Baby,Clint Eastwood,2004,0,1,0,1,1,2,0,0,0,2,1,0,1,1,0,2,0,1,0,1,0,0,0,1,0.4285714286
+Crash,Paul Haggis,2005,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,2,1,1,1,1,0,0,1,1,0.7142857143
+The Departed,Martin Scorsese,2006,0,1,0,0,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No Country for Old Men,"Joel Coen, Ethan Coen",2007,1,1,0,0,0,1,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Slumdog Millionaire,Danny Boyle,2008,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0.2857142857
+The Hurt Locker,Kathryn Bigelow,2009,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0.1428571429
+The King's Speech,Tom Hopper,2010,1,1,0,0,1,0,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0.2857142857
+The Artist,Michel Hazanavicius,2011,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,2,0,1,0,0,0,0,1,0,0.2857142857
+Argo,Ben Affleck,2012,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0.1428571429
+12 Years a Slave,Steve McQueen,2013,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0.5714285714
+Birdman or (The Unexpected Virtue of Ignorance),Alejandro Gonzalez Inarritu,2014,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0.2857142857
+Spotlight,Thomas McCarthy,2015,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.2857142857
+Moonlight,Barry Jenkins,2016,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0.5714285714
+The Shape of Water,Guillermo del Toro,2017,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,2,0,0,1,0,0,1,1,1,0.5714285714
+Green Book,Peter Farrelly,2018,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0.4285714286
+Parasite,Bong Joon-Ho,2019,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,2,1,1,1,0,1,0,1,0,0.5714285714
+Nomadland,Chloe Zhao,2020,0,1,1,1,2,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0.4285714286
+CODA,Sian Heder,2021,0,0,0,0,1,0,0,0,0,2,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0.1428571429
+Everything Everywhere All at Once,"Daniel Kwan, Daniel Scheinert",2022,1,1,0,0,0,0,0,0,0,4,1,1,1,0,1,1,1,1,0,0,1,1,1,0,0.5714285714
